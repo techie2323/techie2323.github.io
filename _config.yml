@@ -1,0 +1,8 @@
+title: techie2323
+description: Devlogs and notes from Satisfactory automation experiments (and whatever else comes up)
+theme: minima
+plugins:
+  - jekyll-feed
+
+minima:
+  skin: dark
